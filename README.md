@@ -17,7 +17,7 @@ Hey there, I'm Gabriel and welcome to my profile! <br>
 <div style="display: inline_block"><br>
 <a href="https://github.com/idfgabe/">
   <img height=150em align="center" alt="PSTATS" src="https://github-readme-stats.vercel.app/api?username=idfgabe&show_icons=true&theme=github_dark&count_private=true">
-  <img height=135em align="right" alt="TOPLANGS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idfgabe&layout=compact&theme=github_dark">
+  <img height=120em align="right" alt="TOPLANGS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idfgabe&layout=compact&theme=github_dark">
 </div>
 
 ### Languages and Tools: 
