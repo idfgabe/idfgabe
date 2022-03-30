@@ -7,11 +7,14 @@
  </a>
 </div>
 
+<p style="font-size:20px" "line-height":3em>
 Hey there, I'm Gabriel and welcome to my profile! <br>
-- 👨‍💻 I’m currently learning Python and Front-End technologies!
-- 🔭 I'm looking for insertion in Software Development field!
-- 🎮 My hobbies are sports and gaming!
-
+<ul style="list-style-type:circle">
+<li>👨‍💻 I’m currently learning Python and Front-End technologies! </li> 
+<li>🔭 I'm looking for insertion in Software Development field! </li>
+<li>🎮 My hobbies are sports and gaming!</li> 
+</ul>
+</p>
 
 
 <div style="display: inline_block"><br>
@@ -20,7 +23,7 @@ Hey there, I'm Gabriel and welcome to my profile! <br>
   <img height=120em align="right" alt="TOPLANGS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idfgabe&layout=compact&theme=github_dark">
 </div>
 
-### Languages and Tools: 
+ <h3>Languages and Tools:</h3>
 
 <div style="display: inline_block>"<br>
 <img height="50em" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
