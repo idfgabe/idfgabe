@@ -7,9 +7,9 @@
  </a>
 </div>
 
-<p style="font-size:20px" "line-height":3em>
+<p style="font-size:30px"; "line-height:5px">
 Hey there, I'm Gabriel and welcome to my profile! <br>
-<ul style="list-style-type:circle">
+<ul style="list-style-type:circle" >
 <li>👨‍💻 I’m currently learning Python and Front-End technologies! </li> 
 <li>🔭 I'm looking for insertion in Software Development field! </li>
 <li>🎮 My hobbies are sports and gaming!</li> 
@@ -33,4 +33,4 @@ Hey there, I'm Gabriel and welcome to my profile! <br>
 <img height="57em" alt="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <br>
   
 <img height="45em" alt="VSCODE"  src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
- </div>
+</div>
