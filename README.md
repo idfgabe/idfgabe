@@ -11,7 +11,7 @@
 Hey there, I'm Gabriel and welcome to my profile! <br>
 <ul style="list-style-type:circle" >
 <li>👨‍💻 I’m currently learning Python and Front-End technologies! </li> 
-<li>🔭 I'm looking for insertion in Software Development field! </li>
+<li>🔭 I'm looking for oportunities in the Software Development field! </li>
 <li>🎮 My hobbies are sports and gaming!</li> 
 </ul>
 </p>
