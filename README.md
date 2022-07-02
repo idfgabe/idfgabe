@@ -10,9 +10,9 @@
 <p style="font-size:30px"; "line-height:5px">
 Hey there, I'm Gabriel and welcome to my profile! <br>
 <ul style="list-style-type:circle" >
-<li>👨‍💻 I’m currently learning Python and Front-End technologies! </li> 
-<li>🔭 I'm looking for oportunities in the Software Development field! </li>
-<li>🎮 My hobbies are sports and gaming!</li> 
+<li>👨‍💻 About me: I am 22yo and I’m Front-End biased! </li> 
+<li>🔭 Work: I'm looking for oportunities IT field! </li>
+<li>🎮 Hobbies: Sports and gaming!</li> 
 </ul>
 </p>
 
